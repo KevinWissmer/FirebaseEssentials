@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-testfull-92800": {
+      "hosting": {
+        "FirebaseProjektFull": [
+          "fir-testfull-92800"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-testfull-92800"
+  }
+}
